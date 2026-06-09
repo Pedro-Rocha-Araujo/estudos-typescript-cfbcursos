@@ -1,0 +1,1 @@
+const leitura:ReadonlyArray<string> = ["Pedro", "Rocha"]
