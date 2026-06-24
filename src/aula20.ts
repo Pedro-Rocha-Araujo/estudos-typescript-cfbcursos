@@ -1,6 +1,6 @@
 // Aula sobre herança
 
-class Funcionario {
+export class Funcionario {
   public nome:string;
   public idade:number;
   private funcao:string;

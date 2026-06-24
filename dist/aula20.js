@@ -1,7 +1,5 @@
-"use strict";
 // Aula sobre herança
-Object.defineProperty(exports, "__esModule", { value: true });
-class Funcionario {
+export class Funcionario {
     nome;
     idade;
     funcao;

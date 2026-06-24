@@ -1,6 +1,4 @@
-"use strict";
 // Aula sobre métodos de classes em POO
-Object.defineProperty(exports, "__esModule", { value: true });
 class Banda {
     nome;
     genero;
@@ -23,4 +21,5 @@ class Banda {
 }
 const banda1 = new Banda("Metallica", "Thrash Metal", ["James", "Kirk", "Lars", "CLiff"], true);
 banda1.tocar();
+export {};
 //# sourceMappingURL=aula18.js.map

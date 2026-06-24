@@ -1,6 +1,4 @@
-"use strict";
 // Métodos Getter e Setter
-Object.defineProperty(exports, "__esModule", { value: true });
 class Funcionario {
     id;
     nome;
@@ -31,4 +29,5 @@ class Programador extends Funcionario {
 const pedro = new Programador("Pedro", "Back-end", "Híbrido");
 console.log(pedro.setNome = "Pedro Rocha Araujo");
 console.log(pedro);
+export {};
 //# sourceMappingURL=aula25.js.map

@@ -1,4 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const leitura = ["Pedro", "Rocha"];
+export {};
 //# sourceMappingURL=aula06.js.map

@@ -1,6 +1,4 @@
-"use strict";
 // Aula 1 sobre POO
-Object.defineProperty(exports, "__esModule", { value: true });
 class Banda {
     nome = "";
     genero = "";
@@ -8,4 +6,5 @@ class Banda {
 }
 const banda = new Banda();
 console.log(banda);
+export {};
 //# sourceMappingURL=aula16.js.map

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var dias;
 (function (dias) {
     dias[dias["segunda"] = 0] = "segunda";
@@ -12,4 +10,5 @@ var dias;
 })(dias || (dias = {}));
 console.log(dias.segunda);
 console.log(dias[0]);
+export {};
 //# sourceMappingURL=aula09.js.map

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Banda {
     nome;
     genero;
@@ -12,4 +10,5 @@ class Banda {
 }
 const banda1 = new Banda("Metallica", "Thrash Metal", ["James", "Kirk", "Lars", "Cliff"]);
 console.log(banda1);
+export {};
 //# sourceMappingURL=aula17.js.map

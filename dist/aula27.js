@@ -1,6 +1,4 @@
-"use strict";
 // Aula 1 de interfaces
-Object.defineProperty(exports, "__esModule", { value: true });
 let banda = {
     nome: "Metallica",
     genero: "Thrash Metal",
@@ -13,4 +11,5 @@ let banda = {
     }
 };
 console.log(banda);
+export {};
 //# sourceMappingURL=aula27.js.map

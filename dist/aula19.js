@@ -1,6 +1,4 @@
-"use strict";
 // Aula sobre modificadores de acesso
-Object.defineProperty(exports, "__esModule", { value: true });
 class Carro {
     modelo;
     marca;
@@ -25,4 +23,5 @@ const carro1 = new Carro("Corolla", "Toyota", false);
 carro1.ligarDesligar();
 carro1.ligarDesligar();
 carro1.ligarDesligar();
+export {};
 //# sourceMappingURL=aula19.js.map

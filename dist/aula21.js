@@ -1,6 +1,4 @@
-"use strict";
 // Aula 2 sobre herança
-Object.defineProperty(exports, "__esModule", { value: true });
 class Funcionario {
     id;
     nome;
@@ -26,4 +24,5 @@ class Programador extends Funcionario {
 }
 const pedro = new Programador("Pedro", 21, "Programador", "Híbrido");
 console.log(pedro);
+export {};
 //# sourceMappingURL=aula21.js.map

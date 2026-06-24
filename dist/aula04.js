@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Pessoa {
     nome = "";
     idade = 0;
@@ -9,4 +7,5 @@ class Pessoa {
     }
 }
 const p1 = new Pessoa("Pedro", 21);
+export {};
 //# sourceMappingURL=aula04.js.map
