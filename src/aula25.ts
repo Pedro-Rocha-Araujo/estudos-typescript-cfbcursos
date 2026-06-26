@@ -35,3 +35,5 @@ const pedro = new Programador("Pedro", "Back-end", "Híbrido")
 
 console.log(pedro.setNome="Pedro Rocha Araujo")
 console.log(pedro)
+
+export {Funcionario, Programador}

@@ -1,15 +1,3 @@
-// Aula sobre namespaces
-var Animais;
-(function (Animais) {
-    class Animal {
-        nome;
-        constructor(nome) {
-            this.nome = nome;
-        }
-    }
-    Animais.Animal = Animal;
-})(Animais || (Animais = {}));
-let cachorro = new Animais.Animal("Cachorro Caramelo");
-console.log(cachorro);
-export {};
+import { Funcionario, Programador } from "./aula25.js";
+// exemplo de omo importat mais de uma coisa em uma única linha
 //# sourceMappingURL=aula31.js.map
